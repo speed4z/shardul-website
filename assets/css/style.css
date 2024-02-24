@@ -596,6 +596,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 		9. Contact
 --------------------------------------*/
 
+.contact {
+    background: #f9fbfd;
+    padding: 50px 0 100px;
+}
+
 .single-contact-box {padding-top: 100px;}
 
 /* contact-adress */
